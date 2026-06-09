@@ -1,3 +1,4 @@
+<img src="banner.png" width="100%">
 # Java DSA Journey
 
 This repository documents my journey of learning Java, Object-Oriented Programming, Data Structures, Algorithms, and Problem Solving.
